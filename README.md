@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohiniSingh485
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently working as DevOps & Cloud Engineer ...
+- 👀 I’m interested in DevOps.
+- 🌱 I’m currently working as Cloud DevOps Engineer .
 - 💞️ I’m looking to collaborate on Cloud & DevOps related Project.
 - 📫 you can connect with me on LinkedIn https://www.linkedin.com/in/mohini-singh-76298214b
 
